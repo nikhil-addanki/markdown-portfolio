@@ -1,2 +1,2 @@
-*KFC
-*DOMINOS
+* KFC
+* DOMINOS
